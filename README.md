@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<img src="./aerolow/aerowho.png" width="300">
+<img src="./aerolow/aerowho.png" width="900">
 </p>
