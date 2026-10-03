@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="500"
+     height="200"
+     viewBox="0 0 900 400">
+
+  <defs>
+    <filter id="softGlow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+
+  <foreignObject x="40" y="35" width="820" height="390">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="
+           color:#60CCDA;
+           font-family: Verdana, Arial, sans-serif;
+           font-size:26px;
+           font-weight:600;
+           line-height:1.25;
+           letter-spacing:0.8px;
+           white-space:pre-wrap;
+           word-break:break-word;
+           filter:url(#softGlow);
+         ">
+Call me AEROSPEC!!! My name a pun!!
+I am an aero enthusiast with love for graphic!!!
+Design. My mind is a weird place,
+take a step won't ya??!? Unstable spectividual!!
+
+Mind where you run...
+I live alone.
+My homegroup has 4 members!!!!
+4 right?
+Perhaps I miscounted.?!
+    </div>
+  </foreignObject>
+</svg>
