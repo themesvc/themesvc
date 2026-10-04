@@ -16,16 +16,16 @@
 
 
 <p align="center">
-  <img src="./aerolow/frutiger-aero-divider.svg" width="100%">
+  <img src="./aerolow/HAHAHA.png" width="800">
 </p>
 
 
 <p align="center">
-  <a href="#yes">
-    <img src="./aerolow/yes1.png" width="120">
+  <a href="https://youtu.be/kmRVciDPa00">
+    <img src="./aerolow/YES.png" width="50" height="50">
   </a>
-  &nbsp;&nbsp;
-  <a href="#yes">
-    <img src="./aerolow/yes2.png" width="120">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/II5I4HItgzg">
+    <img src="./aerolow/NO.png" width="40" height="40">
   </a>
 </p>
